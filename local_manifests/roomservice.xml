@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-<!--yes there's nothing -->
-</manifest>
+    <manifest>
+        <project path="device/xiaomi/polaris" name="PixelExperience-Devices/device_xiaomi_polaris" remote="github" revision="eleven" />
+        <project path="kernel/xiaomi/polaris" name="PixelExperience-Devices/kernel_xiaomi_polaris" remote="github" revision="eleven" />
+        <project path="vendor/xiaomi/polaris" name="jjpprrrr/vendor_xiaomi_polaris" remote="github" revision="eleven" />
+        <project path="vendor/xiaomi/sdm845-common" name="jjpprrrr/vendor_xiaomi_sdm845-common" remote="github" revision="eleven" />
+        <project path="device/xiaomi/sdm845-common" name="jjpprrrr/device_xiaomi_sdm845-common" remote="github" revision="evox-eleven" />
+        <project path="hardware/qcom-caf/sdm845/media" name="jjpprrrr/hardware_qcom-caf_sdm845_media" remote="github" revision="eleven" />
+        <project path="hardware/qcom-caf/sdm845/display" name="jjpprrrr/hardware_qcom-caf_sdm845_display" remote="github" revision="eleven" />
+        <project path="hardware/xiaomi" name="elluzion/hardware_xiaomi" remote="github" revision="R" />
+    </manifest>
