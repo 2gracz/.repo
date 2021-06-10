@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <manifest>
-        <project path="device/google/marlin" name="2gracz/android_device_google_marlin" remote="github" revision="lineage-18.1" />
+        <project path="device/google/marlin" name="2gracz/device_google_marlin" remote="github" revision="eleven" />
         <project path="vendor/google" name="npjohnson/proprietary_vendor_google" remote="github" revision="lineage-18.1" />
-        <project path="kernel/google/marlin" name="npjohnson/android_kernel_google_marlin" remote="github" revision="lineage-18.1" />
+        <project path="kernel/google/marlin" name="PixelExperience-Devices/kernel_google_marlin" remote="github" revision="eleven" />
     </manifest>
