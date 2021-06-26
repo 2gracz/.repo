@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<!--yes there's nothing -->
+        <project path="device/google/marlin" name="2gracz/android_device_google_marlin" remote="github" revision="lineage-17.1" />
+        <project path="vendor/google" name="npjohnson/proprietary_vendor_google" remote="github" revision="lineage-17.1" />
+        <project path="kernel/google/marlin" name="flar2/marlin" remote="github" revision="ElementalX-5.00" />
 </manifest>
