@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>
       <project path="device/samsung/j5xnlte" name="2gracz/android_device_samsung_j5xnlte" remote="github" revision="q" />
+      <project path="device/samsung/msm8916-common" name="2gracz/android_device_samsung_msm8916-common" remote="github" revision="ten" />
+      <project path="vendor/samsung/" name="stfuworld/proprietary_vendor_samsung" remote="github" revision="q" />
+      <project path="device/samsung/qcom-common" name="2gracz/android_device_samsung_qcom-common" remote="github" revision="q" />
+      <project path="kernel/samsung/msm8916" name="stfuworld/android_kernel_samsung_msm8916" remote="github" revision="ABkernel" />
   </manifest>
