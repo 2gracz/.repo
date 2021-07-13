@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-<!--yes there's nothing -->
-</manifest>
+  <manifest>
+      <project path="device/samsung/j5xnlte" name="2gracz/android_device_samsung_j5xnlte" remote="github" revision="q" />
+  </manifest>
